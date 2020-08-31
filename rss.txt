@@ -1,21 +1,21 @@
 Indian Express Item------
 	<item>
-		<title>Portland shooting amplifies tensions in presidential race</title>
-		<link>https://indianexpress.com/article/world/portland-shooting-amplifies-tensions-in-presidential-race-6577335/</link>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 31 Aug 2020 09:11:53 +0000</pubDate>
-		<category>
-      <![CDATA[World]]></category>		
-      <guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=6577335</guid>
-			<description><![CDATA[]]></description>
-			<content:encoded><![CDATA[]]></content:encoded>
-			</item>
-		<item>
+		<title>Portland </title>
+	<link>https://indianexpress.com/article/world/portland-shooting-amplifies-tensions-in-presidential-race-6577335/</link>
 		
+		<info>Information</info>
+	</item>
 ========Times of India==========
-<item>
-<title>How Indian Army foiled PLA’s bid to change status quo at Pangong lake</title>
-<description>In further escalation in the ongoing military confrontation in eastern Ladakh since early-May, fresh clashes erupted between Indian and Chinese troops on the southern bank of Pangong Tso during the intervening night of Saturday and Sunday. There was no immediate official word on whether there were any casualties in the latest clashes</description>
-<link>https://timesofindia.indiatimes.com/india/lac-face-off-fresh-clashes-between-india-china-troops-at-pangong-tso/articleshow/77845818.cms</link>
-<guid>https://timesofindia.indiatimes.com/india/lac-face-off-fresh-clashes-between-india-china-troops-at-pangong-tso/articleshow/77845818.cms</guid>
-<pubDate>Mon, 31 Aug 2020 15:20:36 IST</pubDate></item>
+	<iteminfo>
+		<smalltitle>aa</smalltitle>
+		<description>s in the latest clashes</description>
+		<url>http://timesofindia.indiatimes.com/india/lac-faccms</link>
+	</iteminfo>
+------------------------------
+abc.com
+show a drop downlist of ie/ti
+Show actual message
+		<h1>Title</h1>
+		desc: description / info
+		url : list/url
+What points of consideration for design of abc.com (showing of rss feed)
