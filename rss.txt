@@ -1,3 +1,22 @@
+Abc.com -------------> IE, TI
+Integration
+1. Both the companies -> interface not matching
+2. Support more such companies 
+	->Yes -> mapping rules are unknown
+			please design our own (10) 
+			software -> our interface <--> different code for adapting to IE, TI(adapters)
+				
+	->No  ->  Study both types, and come with common data or mapping
+		item->iteminfo
+		title ->smalltitle
+		link->url
+		info->desc
+3. 		
+
+
+
+
+
 Indian Express Item------
 	<item>
 		<title>Portland </title>
