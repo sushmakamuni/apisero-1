@@ -22,6 +22,19 @@ Rich Internet Application (RIA) (Browser + Network)
 	Thin Client + 
 	 go to server and do few things asyncly (Speed, RoundTrips)
 	
+	
+Mobile Applications
+	-> OS/Platform dep  - Different installable for each platform
+	-> Storage/RAM/Processing of client
+	-> download + install
+			versioning / patches / maintainability 
+	Good Interface compared to pure thin client
+	Internet connectivity
+		-> Offline/Online/Hybrid options
+			-> offline(Sync to server)
+	
+
+
 Task - 
 	5/10 unread mails on gmail
 		->login to gmail, inbox (disconnect from internet)
