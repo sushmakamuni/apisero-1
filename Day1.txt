@@ -1,0 +1,28 @@
+Word, NotePad++
+
+Rich Client
+	Platform /OS 	
+		-> Different installables for each platform
+	Run on client side
+		+ No dependency on server
+		- Client expectations are high
+			CPU / Storage / RAM
+	Software changes -> restribute executable
+
+Thin Client (Browser + Network) ( hacker/file converters/ide
+	Run on server side
+		- dependency on server
+		+ No Client expectations 
+			CPU / Storage / RAM
+	+ Maintaibility 
+		-> code change/versions/patches 
+	+ No platform dependecency
+	- Round Trip ( Server Resources)
+Rich Internet Application (RIA) (Browser + Network)
+	Thin Client + 
+	 go to server and do few things asyncly (Speed, RoundTrips)
+	
+Task - 
+	5/10 unread mails on gmail
+		->login to gmail, inbox (disconnect from internet)
+		-> 1st..5 unread mails
